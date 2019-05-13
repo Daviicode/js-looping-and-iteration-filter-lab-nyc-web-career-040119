@@ -4,6 +4,6 @@ function findMatching (drivers, name) {
   return newdriver;
 }
 
-function fuzzyMatch (drivers, string) {
-  let newdriver = drivers.filter( function (driver,))
+function fuzzyMatch (drivers, name) {
+  let newdriver = drivers.filter( function (driver) {driver.})
 }
